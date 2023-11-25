@@ -1,0 +1,35 @@
+header a{
+    color: red;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bolder;
+    margin: 0;
+    
+}
+
+.post-entry a:hover{
+    color: red;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+header{
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+.post-entry h2 a{
+    color: blue;
+    text-decoration: none;
+}
+
+.post-entry p{
+    margin: 0;
+    font-weight: 400;
+}
